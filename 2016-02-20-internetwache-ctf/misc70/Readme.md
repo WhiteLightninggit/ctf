@@ -25,7 +25,7 @@ _Bang! Dead End._
 Lets go back to Wireshark. I've tried few tricks (without success off course). Than thought: lets look once more for **GET** requsts, maybe there is something interesting?
 ![traffic](./zippass.png)
 
-Yup. "azulcrema". Now all what has left was to extract archive and enter flag.
+Yup. "azulcrema". Now all what has left, was to extract archive and enter flag.
 
 **IW{HTTP_BASIC_AUTH_IS_EASY}**
 
